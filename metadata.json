@@ -1,0 +1,5 @@
+{
+  "name": "Nalinee PDF Merger",
+  "description": "A simple tool to merge multiple PDF files into one.",
+  "requestFramePermissions": []
+}
